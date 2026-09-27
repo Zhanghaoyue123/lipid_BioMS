@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large model files - keep local only
+cwtCLASS/cnn_model.h5
+cwtCLASS/my_cnn_model.h5
+transformer/Tersor_model/bert-base-uncased/pytorch_model.bin
+transformer/Tersor_model/bert-base-uncased/tf_model.h5

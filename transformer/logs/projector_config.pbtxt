@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "projector\\metadata.tsv"
+  sprite {
+    image_path: "projector\\mnistdigits.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
